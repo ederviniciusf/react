@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "npm init\r npm instal --save react@version react-dom@version react-scripts@version",
+  "homepage": "https://github.com/ederviniciusf/react#readme",
+  "bugs": {
+    "url": "https://github.com/ederviniciusf/react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ederviniciusf/react.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  }
+}
